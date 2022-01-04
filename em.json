@@ -23,15 +23,15 @@
       {
         "title": "Soccer 2022",
         "image": "https://image.freepik.com/vecteurs-libre/art-chaine-youtube-jeu-degrade_23-2148878727.jpg",
-        "color": "#000000",
+        "color": "#FFFFFF",
         "text_size": "25",
-        "isLink": true,
-		"link_title": "Get Coins",
+        "isLink": false,
+		"link_title": "",
 		"setLink": "https://www.google.com",
         "image_link": "https://www.google.com",
         "text": "sdsdasdsdasd ssa dadas dasd",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#b3ffb3"
       },
       {
         "title": "Horror Old 2",
@@ -44,7 +44,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#b3ffb3"
       },
       {
         "title": "Tennis 2022 ",
@@ -57,10 +57,10 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#b3ffb3"
       },
       {
-        "title": " Space Android",
+        "title": " Space ",
         "image": "https://image.freepik.com/vecteurs-libre/art-chaine-youtube-jeu-degrade_23-2148878727.jpg",
 		"color": "#FFFFFF",
         "text_size": "25",
@@ -70,7 +70,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#b3ffb3"
       },
       {
         "title": "3D games",
@@ -83,7 +83,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#b3ffb3"
       },
       {
         "title": "Best Games 2022",
@@ -96,7 +96,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#b3ffb3"
       }
     ]
 
