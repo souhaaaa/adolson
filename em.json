@@ -7,11 +7,6 @@
         "BannerAdmob": "ca-app-pub-5065384539763222/2651783765",
         "InterstitialAdmob": "ca-app-pub-5065384539763222/4894803729",
         "NativeAdmob": "ca-app-pub-5065384539763222/6424858884",
-
-        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
-        "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
 		
         "ImageBanner": false,
         "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
